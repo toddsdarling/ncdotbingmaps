@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title></title>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <link rel="stylesheet" href="../style.css">
+        <script type="text/javascript" src="../handlebars-v4.0.5.js"></script>
+        <script data-require="jquery" data-semver="3.0.0" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.js"></script>
+        <script type="text/javascript" src="../../jquery.NCDOT.BingMap.js"></script>
+   </head>
+   <body">
+          <div id="blueStarMap">
+
+          </div>
+
+          <script type="text/javascript">
+
+          $(document).ready(function() {
+
+            var scriptTag = document.createElement('script');
+            scriptTag.async = false;
+            scriptTag.src = 'http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&onscriptload=getMap';
+            scriptTag.type = 'text/javascript';
+
+            document.getElementsByTagName('body')[0].appendChild(scriptTag);
+
+          });
+
+
+            function getMap() {
+
+              //init the bing map with map options
+              $('#blueStarMap').NCDOTBingMap({
+                mapCenterLat:35.26356186215209,
+                mapCenterLong: -77.091064453125,
+                zoom:7,
+                showMapTypeSelector:false
+              });
+             
+              /* since the pin data could come from a variety of sources, the call to get the pins
+              stays in the HTML, not in the jQuery plugin */
+              
+              //make the call to load the map pin data
+              $.ajax({
+                type: 'GET',
+                url: 'programs_environmental_bluestarsigns.xml',
+                data: {},
+                contentType: "application/xml; charset=utf-8",
+                dataType: "xml",
+                success: setBlueStarPins
+              });
+
+            } 
+            
+            function setBlueStarPins(response) {
+              //grab the array of pins
+              var xmlBody = $.parseXML(response.childNodes[0].outerHTML);
+              var pinArrayFromXML = $(xmlBody).find('item');
+              var pinArray = [];
+
+              //loop through the pins
+              for (var i = 0 ; i < pinArrayFromXML.length; i++) {
+
+                  var parsedItem = {};
+
+                  var itemChildren = pinArrayFromXML[i].childNodes;
+
+                  itemChildren.forEach(function(value, key) {
+
+                    if (value.nodeName === 'title') {
+                      parsedItem.title = value.innerHTML.replace('&amp;', '&');
+                    }
+
+                    if (value.nodeName === 'description') {
+
+                      var desc = value.innerHTML.replace('<![CDATA[', '').replace(']]>', '').replace(/^"(.*)"$/, '$1');
+                      parsedItem.description = desc;
+                    }
+
+                    if (value.nodeName === 'georss:point') {
+                      var stringArray = value.innerHTML.split(' ');
+                      parsedItem.coordinates = {lat: stringArray[0], long:stringArray[1]};
+                    }
+
+                    parsedItem.iconPath = '../assets/bluestar-pin.svg';
+
+
+                  });
+
+                  //create directions link for each pin (if there is a description)
+                      //need to get the directions link out of the HTML and build the href for it
+                  if (parsedItem.description && parsedItem.description.indexOf('directionsLink') > -1) {
+                      parsedItem.description = parsedItem.description.replace('class="directionsLink" href=""','class="directionsLink" target="_blank" href="https://www.bing.com/maps?rtp=~pos.' + parsedItem.coordinates.lat + '_' + parsedItem.coordinates.long + '_' + parsedItem.title + '&rtop=0~1~0"');                     
+                  } 
+
+                  parsedItem.pinWidth = 45;
+                  parsedItem.pinHeight = 45;
+
+
+                  pinArray.push(parsedItem);
+
+              }
+
+
+                /* the setPin function can take an object with the following properties:
+
+                coordinates: an object with 'lat' and 'long' properties,
+                title: the name of this pin
+                description: the infobox description
+                iconPath: the path to the custom icon
+
+                */
+
+              $('#blueStarMap').data('NCDOTBingMap').setPins(pinArray);              
+              
+
+            }
+
+          </script>
+
+   </body>
+</html>

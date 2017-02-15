@@ -1,0 +1,2376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:georss="http://www.georss.org/georss" version="2.0">
+    <channel>
+        <title>NC Rest Area Locations</title>
+        <description/>
+
+        <!-- - - - Division 1 - - - - -->
+
+        <item>
+            <title>Visitor Center: Camden County US 17</title>
+            <description><![CDATA[
+<div class="camden">
+<div class="camden countydiv hidden">Camden County US 17, Division 1</div>
+<div class="camden image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/camden.jpg" /></div>
+<div class="camden bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 17, 1 mile south of the Virginia State Line<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="camden bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)426-5041</div>
+<div class="camden bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 28, Car/Trailer: 5, Trucks: 6</div>
+<div class="camden bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Built on the banks of the Great Dismal Swamp Canal, this site provides traveler's information to both motorist and boater on the canal.</div>
+<div class="camden bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations"
+</div>]]></description>
+            <pubDate/>
+            <route>US 17</route>
+            <county>Camden</county>
+            <georss:point>36.5075 -76.356111</georss:point>
+            <lat>36.5075</lat>
+            <long>-76.356111</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Currituck County US 158</title>
+            <description><![CDATA[
+<div class="currituck">
+<div class="currituck countydiv hidden">Currituck County US 158, Division 1</div>
+<div class="currituck image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/currituck.jpg" /></div>
+<div class="currituck bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 158, 3 miles south of Coinjock<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="currituck bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)426-5041</div>
+<div class="currituck bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 17, Car/Trailer: 3, Trucks: 4</div>
+<div class="currituck bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Built in 1986 to serve east and westbound lanes of traffic.</div>
+<div class="currituck bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 17</route>
+            <county>Camden</county>
+            <georss:point>36.301944 -75.927778</georss:point>
+            <lat>36.301944</lat>
+            <long>-75.927778</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Visitor Center: Dare County (Kitty Hawk) US 158/NC 12</title>
+            <description><![CDATA[
+<div class="darekh">
+<div class="darekh countydiv hidden">Dare County (Kitty Hawk) US 158/NC 12, Division 1</div>
+<div class="darekh image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/dare_kittyhawk.jpg" /></div>
+<div class="darekh bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 158, 1 mile east of the Currituck Sound Bridge in Kitty Hawk<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="darekh bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)426-5041</div>
+<div class="darekh bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 47, Car/Trailer: 10, Trucks: 0</div>
+<div class="darekh bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Built in 1984 on a knoll overlooking the Atlantic Ocean and Albemarle Sound.</div>
+<div class="darekh bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 158/NC 12</route>
+            <county>Dare</county>
+            <georss:point>36.099167 -75.716111</georss:point>
+            <lat>36.099167</lat>
+            <long>-75.716111</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+        <item>
+            <title>Visitor Center: Dare County (Roanoke Island) US 64</title>
+            <description><![CDATA[
+<div class="dareri">
+<div class="dareri countydiv hidden">Dare County (Roanoke Island) US 64, Division 1</div>
+<div class="dareri image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/dare_roanoke.jpg" /></div>
+<div class="dareri bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 64, east of the Virginia Dare Bridge, 1 mile south of Manteo<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="dareri bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)426-5041</div>
+<div class="dareri bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 78, Car/Trailer: 7, Trucks: 0</div>
+<div class="dareri bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Opened in August 2002. The Visitor's Center is operated by the Dare County Tourist Bureau.</div>
+<div class="dareri bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 64</route>
+            <county>Dare</county>
+            <georss:point>35.8875 -75.670278</georss:point>
+            <lat>35.8875</lat>
+            <long>-75.670278</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Hyde County US 264</title>
+            <description><![CDATA[
+<div class="hyde">
+<div class="hyde countydiv hidden">Hyde County US 264, Division 1</div>
+<div class="hyde image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/hyde.jpg" /></div>
+<div class="hyde bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 264, Englehard<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="hyde bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)426-5041</div>
+<div class="hyde bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 2, Car/Trailer: 2, Trucks: 1</div>
+<div class="hyde bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Built in 1989 to serve east and westbound lanes of traffic on US 264.</div>
+<div class="hyde bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 264</route>
+            <county>Hyde</county>
+            <georss:point>35.50860537983598 -75.99856853485107</georss:point>
+            <lat>35.50860537983598</lat>
+            <long>-75.99856853485107</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Visitor Center: Tyrrell County US 64</title>
+            <description><![CDATA[
+<div class="tyrrell">
+<div class="tyrrell countydiv hidden">Tyrrell County US 64, Division 1</div>
+<div class="tyrrell image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/tyrrell.jpg" /></div>
+<div class="tyrrell bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 64, Columbia<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="tyrrell bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)426-5041</div>
+<div class="tyrrell bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 28, Car/Trailer: 2, Trucks: 0</div>
+<div class="tyrrell bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Built in 1995  to serve east and westbound travelers on US 64.</div>
+<div class="tyrrell bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 64</route>
+            <county>Tyrrell</county>
+            <georss:point>35.916111 -76.254167</georss:point>
+            <lat>35.916111</lat>
+            <long>-76.254167</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Washington County US 64</title>
+            <description><![CDATA[
+<div class="washington">
+<div class="washington countydiv hidden">Washington County US 64, Division 1</div>
+<div class="washington image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/washington.jpg" /></div>
+<div class="washington bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 64, 1 mile east of Plymouth<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="washington bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)426-5041</div>
+<div class="washington bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 28, Car/Trailer: 5, Trucks: 4</div>
+<div class="washington bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Built in 1987 to serve east and westbound travelers on US 64 and was renovated in 2014.</div>
+<div class="washington bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 64</route>
+            <county>Washington</county>
+            <georss:point>35.865833 -76.726111</georss:point>
+            <lat>35.865833</lat>
+            <long>-76.726111</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+
+
+        <!-- - - - Division 2 - - - - -->
+        
+        <item>
+            <title>Rest Area: Beaufort County US 17</title>
+            <description><![CDATA[
+<div class="beaufort">
+<div class="beaufort countydiv hidden">Beaufort County US 17, Division 2</div>
+<div class="beaufort image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/beaufort.jpg" /></div>
+<div class="beaufort bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 17 and Harding Road, Chocowinity NC<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="beaufort bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)830-3146</div>
+<div class="beaufort bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 58, Car/Trailer: 6, Trucks: 12</div>
+<div class="beaufort bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Built in 2015 to serve north and southbound travelers on US 17.</div>
+<div class="beaufort bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 17</route>
+            <county>Beaufort</county>
+            <georss:point>35.489522 -77.107231</georss:point>
+            <lat>35.489522</lat>
+            <long>-77.107231</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        
+        
+        
+        <item>
+            <title>Visitor Center: Carteret County US 70</title>
+            <description><![CDATA[
+<div class="carteret">
+<div class="carteret countydiv hidden">Carteret County US 70, Division 2</div>
+<div class="carteret image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/carteret.jpg" /></div>
+<div class="carteret bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 70, Morehead City<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="carteret bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)830-3146</div>
+<div class="carteret bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 40, Car/Trailer: 2, Trucks: 0</div>
+<div class="carteret bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Visitor Center operated by Carteret County Tourism Development. This facility is also connected to NCWRC Public Boat Ramp.</div>
+<div class="carteret bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_boat.gif" alt="Boat Ramp" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 70</route>
+            <county>Carteret</county>
+            <georss:point>34.724167 -76.750833</georss:point>
+            <lat>34.724167</lat>
+            <long>-76.750833</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Craven County US 70</title>
+            <description><![CDATA[
+<div class="craven70">
+<div class="craven70 countydiv hidden">Craven County US 70, Division 2</div>
+<div class="craven70 image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/craven70.jpg" /></div>
+<div class="craven70 bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Near Clarks on US 70 and SR 1225<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="craven70 bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)830-3146</div>
+<div class="craven70 bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 33, Car/Trailer: 0, Trucks: 10</div>
+<div class="craven70 bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1979 and was renovated in 2016.</div>
+<div class="craven70 bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 70</route>
+            <county>Craven</county>
+            <georss:point>35.133611 -77.169167</georss:point>
+            <lat>35.133611</lat>
+            <long>-77.169167</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+
+
+        <!-- - - - Division 3 - - - - -->
+
+        <item>
+            <title>Visitor Center: Brunswick County US 17</title>
+            <description><![CDATA[
+<div class="brunswick">
+<div class="brunswick countydiv hidden">Brunswick County US 17, Division 3</div>
+<div class="brunswick image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/brunswick.jpg" /></div>
+<div class="brunswick bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 17, Shallotte Bypass<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="brunswick bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(910)259-4919</div>
+<div class="brunswick bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 33, Car/Trailer: 7, Trucks: 8</div>
+<div class="brunswick bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Visitor Center operated by Southeastern Welcome Center, Incorporated. This facility was opened in 1990.</div>
+<div class="brunswick bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 17</route>
+            <county>Brunswick</county>
+            <georss:point>33.975556 -78.403889</georss:point>
+            <lat>33.975556</lat>
+            <long>-78.403889</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Duplin County I-40</title>
+            <description><![CDATA[
+<div class="duplin">
+<div class="duplin estareatype  hidden">Rest Area</div>
+<div class="duplin countydiv hidden">Duplin County I-40, Division 3</div>
+<div class="duplin image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/duplin.jpg" /></div>
+<div class="duplin bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 364, in median of I-40 and NC 24 interchange, 2 miles west of Warsaw on I-40<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="duplin bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(910)259-4919</div>
+<div class="duplin bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 47, Car/Trailer: 11, Trucks: 10</div>
+<div class="duplin bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1990.</div>
+<div class="duplin bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 364</mm>
+            <bound>Median</bound>
+            <route>I-40</route>
+            <county>Duplin</county>
+            <georss:point>34.991111 -78.132778</georss:point>
+            <lat>34.991111</lat>
+            <long>-78.132778</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Sampson County US 421</title>
+            <description><![CDATA[
+<div class="sampson">
+<div class="sampson countydiv hidden">Sampson County US 421, Division 3</div>
+<div class="sampson image"><img class="box  alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/sampson.jpg" />
+<div class="sampson bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Adjacent to the northbound lane of US 421, 10 miles South of Cinton<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="sampson bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(910)259-4919</div>
+<div class="sampson bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 22, Car/Trailer: 7, Trucks: 6</div>
+<div class="sampson bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1972 and renovated in 2012.</div>
+</div>
+<div class="sampson bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 421</route>
+            <county>Sampson</county>
+            <georss:point>34.8525 -78.261389</georss:point>
+            <lat>34.8525</lat>
+            <long>-78.261389</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+
+
+
+        <!-- - - - Division 4 - - - - -->
+
+        <item>
+            <title>Rest Area: Nash County I-95, Southbound</title>
+            <description><![CDATA[
+<div class="nashs">
+<div class="nashs countydiv hidden">Nash County I-95, Southbound, Division 4</div>
+<div class="nashs image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/nashs.jpg" />
+<div class="nashs bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 142, 3 miles north of Dortches on I-95<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="nashs bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)237-6164</div>
+<div class="nashs bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 51, Car/Trailer: 10,  Trucks: 17</div>
+<div class="nashs bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1980 and was renovated in 2009.</div>
+</div>
+<div class="nashs bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 142</mm>
+            <bound>S</bound>
+            <route>I-95</route>
+            <county>Nash</county>
+            <georss:point>36.03305835322332 -77.8405809402466</georss:point>
+            <lat>36.03305835322332</lat>
+            <long>-77.8405809402466</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Nash County I-95, Northbound</title>
+            <description><![CDATA[
+<div class="nashn">
+<div class="nashn countydiv hidden">Nash County I-95, Northbound, Division 4</div>
+<div class="nashn image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/nashn.jpg" /></div>
+<div class="nashn bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 142, 3 miles north of Dortches on I-95<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="nashn bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)237-6164</div>
+<div class="nashn bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 51, Car/Trailer: 10,  Trucks: 17</div>
+<div class="nashn bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1980 and was renovated in 2009.</div>
+<div class="nashn bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 142</mm>
+            <bound>N</bound>
+            <route>I-95</route>
+            <county>Nash</county>
+            <georss:point>36.024572601242824 -77.84903526306152</georss:point>
+            <lat>36.024572601242824</lat>
+            <long>-77.84903526306152</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Johnston County I-95, Southbound</title>
+            <description><![CDATA[
+<div class="johnston95s">
+<div class="johnston95s countydiv hidden">Johnston County I-95, Southbound, Division 4</div>
+<div class="johnston95s image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/johnston95s.jpg" />
+<div class="johnston95s bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 99, 3 miles northeast of Selma on I-95<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="johnston95s bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)237-6164</div>
+<div class="johnston95s bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 74, Car/Trailer: 7 , Trucks: 7</div>
+<div class="johnston95s bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1967 and was renovated in 2005.</div>
+</div>
+<div class="johnston95s bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 99</mm>
+            <bound>S</bound>
+            <route>I-95</route>
+            <county>Johnston</county>
+            <georss:point>35.53837480327129 -78.2493978738785</georss:point>
+            <lat>35.53837480327129</lat>
+            <long>-78.2493978738785</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Johnston County I-95, Northbound</title>
+            <description><![CDATA[
+<div class="johnston95n">
+<div class="johnston95n countydiv hidden">Johnston County I-95, Northbound, Division 4</div>
+<div class="johnston95n image"><img class="box  alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/johnston95n.jpg" />
+<div class="johnston95n bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 99, 3 miles northeast of Selma on I-95<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="johnston95n bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)237-6164</div>
+<div class="johnston95n bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 74, Car/Trailer: 7 , Trucks: 7</div>
+<div class="johnston95n bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1967 and was renovated in 2005.</div>
+</div>
+<div class="johnston95n bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 99</mm>
+            <bound>N</bound>
+            <route>I-95</route>
+            <county>Johnston</county>
+            <georss:point>35.53610488349625 -78.25352847576143</georss:point>
+            <lat>35.53610488349625</lat>
+            <long>-78.25352847576143</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Johnston County I-40, Westbound</title>
+            <description><![CDATA[
+<div class="johnston40w">
+<div class="johnston40w countydiv hidden">Johnston County I-40, Westbound, Division 4</div>
+<div class="johnston40w image"><img class="box  alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/johnston40w.jpg" />
+<div class="johnston40w bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 324, 3 miles north of Benson on I-40<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="johnston40w bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)237-6164</div>
+<div class="johnston40w bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 53, Car/Trailer: 8,  Trucks: 15</div>
+<div class="johnston40w bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1990 and was renovated in 2013.</div>
+</div>
+<div class="johnston40w bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 324</mm>
+            <bound>E</bound>
+            <route>I-40</route>
+            <county>Johnston</county>
+            <georss:point>35.43778636992406 -78.53223145008087</georss:point>
+            <lat>35.43778636992406</lat>
+            <long>-78.53223145008087</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Johnston County I-40, Eastbound</title>
+            <description><![CDATA[
+<div class="johnston40e">
+<div class="johnston40e countydiv hidden">Johnston County I-40, Eastbound, Division 4</div>
+<div class="johnston40e image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/johnston40e.jpg" /></div>
+<div class="johnston40e bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 324, 3 miles north of Benson on I-40<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="johnston40e bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)237-6164</div>
+<div class="johnston40e bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 39, Car/Trailer: 8,  Trucks: 15</div>
+<div class="johnston40e bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1990 and was renovated in 2013.</div>
+<div class="johnston40e bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 324</mm>
+            <bound>W</bound>
+            <route>I-40</route>
+            <county>Johnston</county>
+            <georss:point>35.43654072905564 -78.5353535413742</georss:point>
+            <lat>35.43654072905564</lat>
+            <long>-78.5353535413742</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Welcome Center: Northampton County I-95</title>
+            <description><![CDATA[
+<div class="northampton">
+<div class="northampton countydiv hidden">Northampton County I-95, Division 4</div>
+<div class="northampton image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/northampton.jpg" /></div>
+<div class="northampton bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 181, 1 mile south of Virginia State Line on I-95<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="northampton bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(252)237-6164</div>
+<div class="northampton bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 181, Car/Trailer: 13, Trucks: 20</div>
+<div class="northampton bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1968 and was renovated in 1995.</div>
+<div class="northampton bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 181</mm>
+            <bound>S</bound>
+            <route>I-95</route>
+            <county>Northampton</county>
+            <georss:point>36.540833 -77.579167</georss:point>
+            <lat>36.540833</lat>
+            <long>-77.579167</long>
+            <icon>../assets/travel_restarea_restarea_welcome.png</icon>
+        </item>
+
+
+
+        <!-- - - - Division 5 - - - - -->
+        <item>
+            <title>Rest Area: Granville County I-85, Southbound</title>
+            <description><![CDATA[
+<div class="granvilles">
+<div class="granvilles countydiv hidden">Granville County I-85, Southbound, Division 5</div>
+<div class="granvilles image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/granvilles.jpg" /></div>
+<div class="granvilles bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 199, 6 miles south of Oxford on I-85<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="granvilles bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(919) 816-9290</div>
+<div class="granvilles bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 50, Car/Trailer: 10,  Trucks: 17</div>
+<div class="granvilles bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1974 and was renovated in 2003.</div>
+<div class="granvilles bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 199</mm>
+            <bound>S</bound>
+            <route>I-85</route>
+            <county>Granville</county>
+            <georss:point>36.23841931541473 -78.63780856132509</georss:point>
+            <lat>36.23841931541473</lat>
+            <long>-78.63780856132509</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Granville County I-85, Northbound</title>
+            <description><![CDATA[<div class="granvillen">
+<div class="granvillen countydiv hidden">Granville County I-85, Northbound, Division 5</div>
+<div class="granvillen image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/granvillen.jpg" /></div>
+<div class="granvillen bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 199, 6 miles south of Oxford on I-85<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="granvillen bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(919) 816-9290</div>
+<div class="granvillen bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 51, Car/Trailer: 10,  Trucks: 18</div>
+<div class="granvillen bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1974 and was renovated in 2003.</div>
+<div class="granvillen bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 199</mm>
+            <bound>N</bound>
+            <route>I-85</route>
+            <county>Granville</county>
+            <georss:point>36.23539918765836 -78.63986849784851</georss:point>
+            <lat>36.23539918765836</lat>
+            <long>-78.63986849784851</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Welcome Center: Warren County I-85</title>
+            <description><![CDATA[<div class="warren">
+<div class="warren countydiv hidden">Warren County I-85, Division 5</div>
+<div class="warren image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/warren.jpg" /></div>
+<div class="warren bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 231, 1 mile south of Virginia State Line on I-85<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="warren bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(919) 816-9290</div>
+<div class="warren bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 49, Car/Trailer: 8, Trucks: 16</div>
+<div class="warren bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1970 and was rennovated in 2000.</div>
+<div class="warren bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 231</mm>
+            <bound>S</bound>
+            <route>I-85</route>
+            <county>Warren</county>
+            <georss:point>36.514167 -78.206667</georss:point>
+            <lat>36.514167</lat>
+            <long>-78.206667</long>
+            <icon>../assets/travel_restarea_restarea_welcome.png</icon>
+        </item>
+
+
+
+        <!-- - - - Division 6 - - - - -->
+
+        <item>
+            <title>Rest Area: Cumberland County I-95, Southbound</title>
+            <description><![CDATA[<div class="cumberlands">
+<div class="cumberlands countydiv hidden">Cumberland County I-95, Southbound, Division 6</div>
+<div class="cumberlands image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/cumberlands.jpg" /></div>
+<div class="cumberlands bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 48, 1 mile southeast of Fayettville on I-95<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="cumberlands bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(910)437-2611</div>
+<div class="cumberlands bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 47, Car/Trailer: 8, Trucks: 18,</div>
+<div class="cumberlands bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1981 and renovated in 2009.</div>
+<div class="cumberlands bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 48</mm>
+            <bound>S</bound>
+            <route>I-95</route>
+            <county>Cumberland</county>
+            <georss:point>34.99471567902857 -78.83426427841188</georss:point>
+            <lat>34.99471567902857</lat>
+            <long>-78.83426427841188</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Cumberland County I-95, Northbound</title>
+            <description><![CDATA[
+<div class="cumberlandn">
+<div class="cumberlandn countydiv hidden">Cumberland County I-95, Northbound, Division 6</div>
+<div class="cumberlandn image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/cumberlandn.jpg" /></div>
+<div class="cumberlandn bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 48, 1 mile southeast of Fayettville on I-95<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="cumberlandn bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(910)437-2611</div>
+<div class="cumberlandn bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 49, Car/Trailer: 8, Trucks: 18,</div>
+<div class="cumberlandn bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1981 and renovated in 2009.</div>
+<div class="cumberlandn bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 48</mm>
+            <bound>N</bound>
+            <route>I-95</route>
+            <county>Cumberland</county>
+            <georss:point>34.99575278808776 -78.82995128631593</georss:point>
+            <lat>34.99575278808776</lat>
+            <long>-78.82995128631593</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Welcome Center: Robeson County I-95</title>
+            <description><![CDATA[
+<div class="robeson">
+<div class="robeson countydiv hidden">Robeson County I-95, Division 6</div>
+<div class="robeson image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/robeson.jpg" /></div>
+<div class="robeson bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 5., miles north of the South Carolina State Line on I-95.<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="robeson bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(910)437-2611</div>
+<div class="robeson bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 67, Car/Trailer: 10, Trucks: 18</div>
+<div class="robeson bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened on Novemeber 21, 1973 and was renovated in 1999.</div>
+<div class="robeson bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 5</mm>
+            <bound>N</bound>
+            <route>I-95</route>
+            <county>Robeson</county>
+            <georss:point>34.538056 -79.235556</georss:point>
+            <lat>34.538056</lat>
+            <long>-79.235556</long>
+            <icon>../assets/travel_restarea_restarea_welcome.png</icon>
+        </item>
+
+
+
+        <!-- - - - Division 7 - - - - -->
+
+        <item>
+            <title>Rest Area: Alamance County I-85, Northbound</title>
+            <description><![CDATA[<div class="alamancen">
+<div class="alamancen countydiv hidden">Alamance County I-85, Northbound, Division 7</div>
+<div class="alamancen image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/alamancen.jpg" /></div>
+<div class="alamancen bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 139, 3 miles west of Burlington on I-85<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="alamancen bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)487-0000</div>
+<div class="alamancen bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 75, Car/Trailer: 10, Trucks: 22</div>
+<div class="alamancen bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1983 and renovated in 2005</div>
+<div class="alamancen bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 139</mm>
+            <bound>N</bound>
+            <route>I-85</route>
+            <county>Alamance</county>
+            <georss:point>36.062131171246094 -79.53468561172487</georss:point>
+            <lat>36.062131171246094</lat>
+            <long>-79.53468561172487</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Alamance County I-85, Southbound</title>
+            <description><![CDATA[
+<div class="alamances">
+<div class="alamances countydiv hidden">Alamance County I-85, Southbound, Division 7</div>
+<div class="alamances image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/alamances.jpg" />
+<div class="alamances bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 139, 3 miles west of Burlington on I-85<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="alamances bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)487-0000</div>
+<div class="alamances bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 78, Car/Trailer: 12, Trucks: 22</div>
+<div class="alamances bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1983 and renovated in 2005.</div>
+</div>
+<div class="alamances bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 139</mm>
+            <bound>S</bound>
+            <route>I-85</route>
+            <county>Alamance</county>
+            <georss:point>36.0650713 -79.5349538</georss:point>
+            <lat>36.0650713</lat>
+            <long>-79.5349538</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Visitor Center: Caswell County US 29</title>
+            <description><![CDATA[
+<div class="caswell">
+<div class="caswell countydiv hidden">Caswell County US 29, Division 7</div>
+<div class="caswell image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/caswell.jpg" />
+<div class="caswell bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 29 South of Virginia State Line, at NC 700<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="caswell bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)487-0000</div>
+<div class="caswell bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 43, Car/Trailer: 0, Trucks: 10</div>
+<div class="caswell bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1994.</div>
+</div>
+<div class="caswell bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 29</route>
+            <county>Caswell</county>
+            <georss:point>36.521389 -79.474444</georss:point>
+            <lat>36.521389</lat>
+            <long>-79.474444</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+
+
+        <!-- - - - Division 8 - - - - -->
+
+        <item>
+            <title>Visitor Center: Randolph County I-73/74, Northbound</title>
+            <description><![CDATA[
+<div class="randolphn">
+<div class="randolphn countydiv hidden">Randolph County I-73/74, Northbound, Division 8</div>
+<div class="randolphn image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/randolphn.jpg" /></div>
+<div class="randolphn bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>1 mile south of NC 705, Seagrove<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="randolphn bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(910) 944-2344</div>
+<div class="randolphn bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 74 , Car/Trailer: 8, Trucks: 28</div>
+<div class="randolphn bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Built in 2010 to serve north and southbound travelers on I-73/74.</div>
+<div class="randolphn bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <bound>N</bound>
+            <route>I-73/74</route>
+            <county>Randolph</county>
+            <georss:point>35.514289 -79.778956</georss:point>
+            <lat>35.514289</lat>
+            <long>-79.778956</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+        <item>
+            <title>Visitor Center: Randolph County I-73/74, Southbound</title>
+            <description><![CDATA[
+<div class="randolphs">
+<div class="randolphs countydiv hidden">Randolph County I-73/74, Southbound, Division 8</div>
+<div class="randolphs image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/randolphs.jpg" /></div>
+<div class="randolphs bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>1 mile south of NC 705, Seagrove<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="randolphs bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(910) 944-2344</div>
+<div class="randolphs bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 113 , Car/Trailer: 11, Trucks: 34</div>
+<div class="randolphs bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>Built in 2010 to serve north and southbound travelers on I-73/74.</div>
+<div class="randolphs bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <bound>S</bound>
+            <route>I-73/74</route>
+            <county>Randolph</county>
+            <georss:point>35.512864 -79.784675</georss:point>
+            <lat>35.512864</lat>
+            <long>-79.784675</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+
+
+        <!-- - - - Division 9 - - - - -->
+
+        <item>
+            <title>Rest Area: Davidson County I-85, Northbound</title>
+            <description><![CDATA[<div class="davidsonn">
+<div class="davidsonn countydiv hidden">Davidson County I-85, Northbound, Division 9</div>
+<div class="davidsonn image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/davidsonn.jpg" /></div>
+<div class="davidsonn bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 99, 3 miles south of Thomasville on I-85<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="davidsonn bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)896-2380</div>
+<div class="davidsonn bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 56, Car/Trailer: 6,  Trucks: 19</div>
+<div class="davidsonn bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1982 and was renovated in 2011. North Carolina Vietnam Veterans Memorial is located on site.</div>
+<div class="davidsonn bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 99</mm>
+            <bound>N</bound>
+            <route>I-85</route>
+            <county>Davidson</county>
+            <georss:point>35.840990442357 -80.1348352432251</georss:point>
+            <lat>35.840990442357</lat>
+            <long>-80.1348352432251</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Davidson County I-85, Southbound</title>
+            <description><![CDATA[
+<div class="davidsons">
+<div class="davidsons countydiv hidden">Davidson County I-85, Southbound, Division 9</div>
+<div class="davidsons image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/davidsons.jpg" /></div>
+<div class="davidsons bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 99, 3 miles south of Thomasville on I-85<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="davidsons bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)896-2380</div>
+<div class="davidsons bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 58, Car/Trailer: 8,  Trucks: 19</div>
+<div class="davidsons bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1982 and was renovated in 2011. North Carolina Vietnam Veterans Memorial is located on site.</div>
+<div class="davidsons bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 99</mm>
+            <bound>S</bound>
+            <route>I-85</route>
+            <county>Davidson</county>
+            <georss:point>35.84407791617653 -80.12892365455627</georss:point>
+            <lat>35.84407791617653</lat>
+            <long>-80.12892365455627</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Davie County I-40, Eastbound</title>
+            <description><![CDATA[
+<div class="daviee">
+<div class="daviee countydiv hidden">Davie County I-40, Eastbound, Division 9</div>
+<div class="daviee image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/daviee.jpg" /></div>
+<div class="daviee bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 177, 18 miles west of Winston Salem on I-40<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="daviee bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)896-2380</div>
+<div class="daviee bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 35, Car/Trailer: 10,  Trucks: 17</div>
+<div class="daviee bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1974 and was renovated in 2007.</div>
+<div class="daviee bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 177</mm>
+            <bound>E</bound>
+            <route>I-40</route>
+            <county>Davie</county>
+            <georss:point>35.98731732407204 -80.48983097076416</georss:point>
+            <lat>35.98731732407204</lat>
+            <long>-80.48983097076416</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+
+
+
+        <!-- - - - Rest Area: Davie I-40, Westbound - - - - -->
+        <item>
+            <title>Rest Area: Davie County I-40, Westbound</title>
+            <description><![CDATA[<div class="daview">
+<div class="daview countydiv hidden">Davie County I-40, Westbound, Division 9</div>
+<div class="daview image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/daview.jpg" /></div>
+<div class="daview bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 177, 18 miles west of Winston Salem on I-40<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="daview bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)896-2380</div>
+<div class="daview bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 39, Car/Trailer: 10,  Trucks: 17</div>
+<div class="daview bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1974 and was renovated in 2004.</div>
+<div class="daview bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 177</mm>
+            <bound>W</bound>
+            <route>I-40</route>
+            <county>Davie</county>
+            <georss:point>35.99019075106535 -80.48770666122437</georss:point>
+            <lat>35.99019075106535</lat>
+            <long>-80.48770666122437</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+
+
+
+        <!-- - - - Division 10 - - - - -->
+
+        <item>
+            <title>Welcome Center: Mecklenburg County I-77</title>
+            <description><![CDATA[
+<div class="mecklenburg">
+<div class="mecklenburg countydiv hidden">Mecklenburg County I-77, Division 10</div>
+<div class="mecklenburg image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/mecklenburg.jpg" />
+<div class="mecklenburg bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 1, 1 mile north of South Carolina State Line, southwest of Charlotte on I-77<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="mecklenburg bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(704)982-1028</div>
+<div class="mecklenburg bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 66, Car/Trailer:  11, Trucks: 17</div>
+<div class="mecklenburg bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1985 and was renovated in 2009.</div>
+</div>
+<div class="mecklenburg bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 1</mm>
+            <bound>N</bound>
+            <route>I-77</route>
+            <county>Mecklenburg</county>
+            <georss:point>35.121944 -80.919722</georss:point>
+            <lat>35.121944</lat>
+            <long>-80.919722</long>
+            <icon>../assets/travel_restarea_restarea_welcome.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Cabarrus County I-85, Northbound</title>
+            <description><![CDATA[
+<div class="cabarrusn">
+<div class="cabarrusn countydiv hidden">Cabarrus County I-85, Northbound, Division 10</div>
+<div class="cabarrusn image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/cabarrusn.jpg" />
+<div class="cabarrusn bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 59, 1 mile north of Concord on I-85<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="cabarrusn bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(704)982-1028</div>
+<div class="cabarrusn bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 47, Car/Trailer: 18,  Trucks: 21</div>
+<div class="cabarrusn bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1981 and renovated in 2012.</div>
+</div>
+<div class="cabarrusn bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 59</mm>
+            <bound>N</bound>
+            <route>I-85</route>
+            <county>Cabarrus</county>
+            <georss:point>35.45181707363215 -80.59555292129517</georss:point>
+            <lat>35.45181707363215</lat>
+            <long>-80.59555292129517</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Cabarrus County I-85, Southbound</title>
+            <description><![CDATA[
+<div class="cabarruss">
+<div class="cabarruss countydiv hidden">Cabarrus County I-85, Southbound, Division 10</div>
+<div class="cabarruss image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/cabarruss.jpg" /></div>
+<div class="cabarruss bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 59, 1 mile north of Concord on I-85<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="cabarruss bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(704)982-1028</div>
+<div class="cabarruss bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 56, Car/Trailer: 11, Trucks: 21</div>
+<div class="cabarruss bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1981 and renovated in 2012.</div>
+<div class="cabarruss bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 59</mm>
+            <bound>S</bound>
+            <route>I-85</route>
+            <county>Cabarrus</county>
+            <georss:point>35.45824927119552 -80.59272050857544</georss:point>
+            <lat>35.45824927119552</lat>
+            <long>-80.59272050857544</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+
+
+
+        <!-- - - - Division 11 - - - - -->
+
+        <item>
+            <title>Rest Area: Iredell/Yadkin Counties I-77, Northbound</title>
+            <description><![CDATA[
+<div class="iredellyadkinn">
+<div class="iredellyadkinn countydiv hidden">Yadkin County I-77, Northbound, Division 11</div>
+<div class="iredellyadkinn image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/iredellyadkinn.jpg" /></div>
+<div class="iredellyadkinn bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 72, 10 miles north of Union Grove in Yadkin County<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="iredellyadkinn bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)903-9228</div>
+<div class="iredellyadkinn bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 38, Car/Trailer: 6, Trucks: 11</div>
+<div class="iredellyadkinn bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1972</div>
+<div class="iredellyadkinn bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 72</mm>
+            <bound>N</bound>
+            <route>I-77</route>
+            <county>Yadkin</county>
+            <georss:point>36.106667 -80.813333</georss:point>
+            <lat>36.106667</lat>
+            <long>-80.813333</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Iredell/Yadkin Counties I-77, Southbound</title>
+            <description><![CDATA[
+<div class="iredellyadkins">
+<div class="iredellyadkins countydiv hidden">Iredell County I-77, Southbound, Division 11</div>
+<div class="iredellyadkins image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/iredellyadkins.jpg" /></div>
+<div class="iredellyadkins bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 63, 3 miles south of Union Grove in Iredell County<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="iredellyadkins bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)903-9228</div>
+<div class="iredellyadkins bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 43, Car/Trailer: 7, Trucks: 11</div>
+<div class="iredellyadkins bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1972</div>
+<div class="iredellyadkins bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 72</mm>
+            <bound>S</bound>
+            <route>I-77</route>
+            <county>Yadkin</county>
+            <georss:point>35.976111 -80.839167</georss:point>
+            <lat>35.976111</lat>
+            <long>-80.839167</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Welcome Center: Surry County I-77</title>
+            <description><![CDATA[
+<div class="surry">
+<div class="surry countydiv hidden">Surry County I-77, Division 11</div>
+<div class="surry image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/surry.jpg" /></div>
+<div class="surry bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>At Milepost 105, at the Virginia State Line on I-77<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="surry bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)903-9228</div>
+<div class="surry bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 75, Car/Trailer: 8 , Trucks: 10</div>
+<div class="surry bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1978 and renovated in 1997.</div>
+<div class="surry bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 105</mm>
+            <bound>S</bound>
+            <route>I-77</route>
+            <county>Surry</county>
+            <georss:point>36.558889 -80.744167</georss:point>
+            <lat>36.558889</lat>
+            <long>-80.744167</long>
+            <icon>../assets/travel_restarea_restarea_welcome.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Watauga County US 221</title>
+            <description><![CDATA[
+<div class="watauga221">
+<div class="watauga221 countydiv hidden">Watauga County US 221, Division 11</div>
+<div class="watauga221 image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/watauga221.jpg" />
+<div class="watauga221 bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Adjacent to the northbound lane of US 221, 2 miles west of Blowing Rock<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="watauga221 bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336)903-9228</div>
+<div class="watauga221 bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 14, Car/Trailer: 2, Trucks: 2</div>
+<div class="watauga221 bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1950, and renovated in 1991.</div>
+</div>
+<div class="watauga221 bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 221</route>
+            <county>Watauga</county>
+            <georss:point>36.146111 -81.701111</georss:point>
+            <lat>36.146111</lat>
+            <long>-81.701111</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Visitor Center: Wilkes County US 421</title>
+            <description><![CDATA[
+<div class="wilkes421">
+<img class="alignright" src="../assets/travel_restareas_sustainablelogo.png" alt="Sustainable Rest Area Logo" />
+<div class="wilkes421 countydiv hidden">Wilkes County US 421, Division 11</div>
+<div class="wilkes421 image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/wilkes421.jpg" />
+<div class="wilkes421 bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Adjacent to the Northbound lane of US421, 3 miles east of Wilkesboro.<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="wilkes421 bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(336) 903-9228</div>
+<div class="wilkes421 bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 64, Car/Trailer: 7, Trucks: 17</div>
+<div class="wilkes421 bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>North Carolina's first environmentally friendly rest area, opened in 2009.<br /><p><strong><a target="_blank" href="http://ncdot.technology-view.com/wilkes" title="Opens in new window">See Energy Use Dashboard</a> | <a class="pdf" href="/download/travel/Wilkes_visitorcenter_factsheet.pdf" target="_blank">View Fact Sheet</a></strong></p></div>
+</div>
+<div class="watauga221 bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />          
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />          
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 421</route>
+            <county>Wilkes</county>
+            <georss:point>36.134482450099355 -81.11994624137877</georss:point>
+            <lat>36.134482450099355</lat>
+            <long>-81.11994624137877</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+
+
+        <!-- - - - Division 12 - - - - -->
+
+        <item>
+            <title>Welcome Center: Cleveland County I-85</title>
+            <description><![CDATA[
+<div class="cleveland">
+<div class="cleveland countydiv hidden">Cleveland County I-85, Division 12</div>
+<div class="cleveland image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/cleveland.jpg" /></div>
+<div class="cleveland bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Northbound lane at Milepost 2, 2 miles North of South Carolina<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="cleveland bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(704)480-5650</div>
+<div class="cleveland bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 60, Car/Trailer: 10, Trucks: 18</div>
+<div class="cleveland bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1954 and was renovated in 2004.</div>
+<div class="cleveland bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 2</mm>
+            <bound>N</bound>
+            <route>I-85</route>
+            <county>Cleveland</county>
+            <georss:point>35.184167 -81.408056</georss:point>
+            <lat>35.184167</lat>
+            <long>-81.408056</long>
+            <icon>../assets/travel_restarea_restarea_welcome.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Catawba County I-40 Eastbound</title>
+            <description><![CDATA[
+<div class="catawbae">
+<div class="catawbae countydiv hidden">Catawba County I-40, Eastbound, Division 12</div>
+<div class="catawbae image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/catawbae.jpg" /></div>
+<div class="catawbae bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 136, 10 miles East of Conover on I-40<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="catawbae bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(704)480-5650</div>
+<div class="catawbae bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 41, Car/Trailer: 6,  Trucks: 15</div>
+<div class="catawbae bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1984 and renovated in 2011.</div>
+<div class="catawbae bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 136</mm>
+            <bound>E</bound>
+            <route>I-40</route>
+            <county>Catawba</county>
+            <georss:point>35.7266651072962 -81.13115787506104</georss:point>
+            <lat>35.7266651072962</lat>
+            <long>-81.13115787506104</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Catawba County I-40 Westbound</title>
+            <description><![CDATA[
+<div class="catawbaw">
+<div class="catawbaw countydiv hidden">Catawba County I-40, Westbound, Division 12</div>
+<div class="catawbaw image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/catawbaw.jpg" /></div>
+<div class="catawbaw bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 136, 10 miles East of Conover on I-40<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="catawbaw bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(704)480-5650</div>
+<div class="catawbaw bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 45, Car/Trailer: 6,  Trucks: 14</div>
+<div class="catawbaw bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1984 and renovated in 2011.</div>
+<div class="catawbaw bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 136</mm>
+            <bound>W</bound>
+            <route>I-40</route>
+            <county>Catawba</county>
+            <georss:point>35.728180597450304 -81.12671613693237</georss:point>
+            <lat>35.728180597450304</lat>
+            <long>-81.12671613693237</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Iredell County I-77, Northbound</title>
+            <description><![CDATA[<div class="iredelln">
+<div class="iredelln countydiv hidden">Iredell County I-77, Northbound, Division 12</div>
+<div class="iredelln image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/iredelln.jpg" />
+<div class="iredelln bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>At Milepost 39, 4 miles northwest of Mooresville on I-77<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="iredelln bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(704)480-5650</div>
+<div class="iredelln bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 40, Car/Trailer: 11, Trucks: 18</div>
+<div class="iredelln bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1973.</div>
+</div>
+<div class="iredelln bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 39</mm>
+            <bound>N</bound>
+            <route>I-77</route>
+            <county>Iredell</county>
+            <georss:point>35.63079757223629 -80.86238980293274</georss:point>
+            <lat>35.63079757223629</lat>
+            <long>-80.86238980293274</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Iredell County I-77, Southbound</title>
+            <description><![CDATA[
+<div class="iredells">
+<div class="iredells countydiv hidden">Iredell County I-77, Southbound, Division 12</div>
+<div class="iredells image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/iredells.jpg" /></div>
+<div class="iredells bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>At Milepost 39, 4 miles northwest of Mooresville on I-77<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="iredells bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(704)480-5650</div>
+<div class="iredells bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 40, Car/Trailer: 10, Trucks: 11</div>
+<div class="iredells bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1973.</div>
+<div class="iredells bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 39</mm>
+            <bound>S</bound>
+            <route>I-77</route>
+            <county>Iredell</county>
+            <georss:point>35.632419525337006 -80.86347341537476</georss:point>
+            <lat>35.632419525337006</lat>
+            <long>-80.86347341537476</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+
+        <!-- - - - Division 13 - - - - -->
+        <item>
+            <title>Visitor Center: McDowell County US 221</title>
+            <description><![CDATA[
+<div class="mcdowell221">
+<div class="mcdowell221 countydiv hidden">Mcdowell County US 221, Division 13</div>
+<div class="mcdowell221 image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/mcdowell221.jpg" /></div>
+<div class="mcdowell221 bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>US 221 Bypass at Tate Street Interchange just outside Marion City limits<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="mcdowell221 bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)225-2763</div>
+<div class="mcdowell221 bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 39, Car/Trailer: 7, Trucks: 0</div>
+<div class="mcdowell221 bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1953 and was renovated in 1995.</div>
+<div class="mcdowell221 bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 221</route>
+            <county>McDowell</county>
+            <georss:point>35.675833 -82.023333</georss:point>
+            <lat>35.675833</lat>
+            <long>-82.023333</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: McDowell County I-40 Eastbound</title>
+            <description><![CDATA[
+<div class="mcdowell40e">
+<div class="mcdowell40e countydiv hidden">Mcdowell County I-40, Eastbound, Division 13</div>
+<div class="mcdowell40e image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/mcdowell40e.jpg" /></div>
+<div class="mcdowell40e bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 82, 3 miles southwest of the Marion<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="mcdowell40e bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)225-2763</div>
+<div class="mcdowell40e bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 52, Car/Trailer: 6, Trucks: 12</div>
+<div class="mcdowell40e bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>The Facility was renovated in 2011.</div>
+<div class="mcdowell40e bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 82</mm>
+            <bound>E</bound>
+            <route>I-40</route>
+            <county>McDowell</county>
+            <georss:point>35.64114567852608 -82.02159762382509</georss:point>
+            <lat>35.64114567852608</lat>
+            <long>-82.02159762382509</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: McDowell County I-40 Westbound</title>
+            <description><![CDATA[
+<div class="mcdowell40w">
+<div class="mcdowell40w countydiv hidden">Mcdowell County I-40, Westbound, Division 13</div>
+<div class="mcdowell40w image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/mcdowell40w.jpg" /></div>
+<div class="mcdowell40w bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 82, 3 miles southwest of the Marion<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="mcdowell40w bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)225-2763</div>
+<div class="mcdowell40w bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 44, Car/Trailer: 5, Trucks: 11</div>
+<div class="mcdowell40w bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>The Facility was renovated in 2011.</div>
+<div class="mcdowell40w bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 82</mm>
+            <bound>W</bound>
+            <route>I-40</route>
+            <county>McDowell</county>
+            <georss:point>35.640003463356976 -82.01793909072876</georss:point>
+            <lat>35.640003463356976</lat>
+            <long>-82.01793909072876</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Henderson Buncombe County I-26, Eastbound</title>
+            <description><![CDATA[<div class="hendersonBuncombee">
+<div class="hendersonBuncombee countydiv hidden">Henderson County I-26, Eastbound, Division 13</div>
+<div class="hendersonBuncombee image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/hendersonBuncombee.jpg" /></div>
+<div class="hendersonBuncombee bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 10, 12 miles South of Ashville on I-26<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="hendersonBuncombee bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)225-2763</div>
+<div class="hendersonBuncombee bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 25, Car/Trailer: 3,  Trucks: 9</div>
+<div class="hendersonBuncombee bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1967 and was renovated in 1998.</div>
+<div class="hendersonBuncombee bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 10</mm>
+            <bound>E</bound>
+            <route>I-26</route>
+            <county>Henderson</county>
+            <georss:point>35.42653775276519 -82.52959728240967</georss:point>
+            <lat>35.42653775276519</lat>
+            <long>-82.52959728240967</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Henderson Buncombe County I-26, Westbound</title>
+            <description><![CDATA[<div class="hendersonBuncombew">
+<div class="hendersonBuncombew countydiv hidden">Buncombe County I-26, Westbound, Division 13</div>
+<div class="hendersonBuncombew image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/hendersonBuncombew.jpg" /></div>
+<div class="hendersonBuncombew bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 10, 12 miles South of Ashville on I-26<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="hendersonBuncombew bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)225-2763</div>
+<div class="hendersonBuncombew bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 28, Car/Trailer: 3,  Trucks: 9</div>
+<div class="hendersonBuncombew bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1967 and was renovated in 1998.</div>
+<div class="hendersonBuncombew bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 10</mm>
+            <bound>W</bound>
+            <route>I-26</route>
+            <county>Henderson</county>
+            <georss:point>35.427097270369636 -82.52828836441041</georss:point>
+            <lat>35.427097270369636</lat>
+            <long>-82.52828836441041</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Welcome Center: Madison County I-26</title>
+            <description><![CDATA[<div class="madison">
+<div class="madison countydiv hidden">Madison County I-26, Division 13</div>
+<div class="madison image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/madison.jpg" /></div>
+<div class="madison bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost, 6 miles east of NC/TN state line<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="madison bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)225-2763</div>
+<div class="madison bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 77, Car/Trailer: 10, Trucks: 30</div>
+<div class="madison bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 2003.</div>
+<div class="madison bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 6</mm>
+            <bound>E</bound>
+            <route>I-26</route>
+            <county>Madison</county>
+            <georss:point>35.874167 -82.550833</georss:point>
+            <lat>35.874167</lat>
+            <long>-82.550833</long>
+            <icon>../assets/travel_restarea_restarea_welcome.png</icon>
+        </item>
+
+
+        <!-- - - - Division 14 - - - - -->
+
+        <item>
+            <title>Rest Area: Cherokee County US 19/129</title>
+            <description><![CDATA[
+<div class="cherokee">
+<div class="cherokee countydiv hidden">Cherokee County US 19/129, Division 14</div>
+<div class="cherokee image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/cherokee.jpg" /></div>
+<div class="cherokee bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Adjacent to US Route 19/129 near Andrews<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="cherokee bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)631-0272</div>
+<div class="cherokee bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 30, Car/Trailer: 3, Trucks: 3</div>
+<div class="cherokee bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1989.</div>
+<div class="cherokee bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 19 and 129</route>
+            <county>Cherokee</county>
+            <georss:point>35.206111 -83.8325</georss:point>
+            <lat>35.206111</lat>
+            <long>-83.8325</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Haywood County I-40, Westbound</title>
+            <description><![CDATA[<div class="haywood40w">
+<div class="haywood40w countydiv hidden">Haywood County I-40, Westbound, Division 14</div>
+<div class="haywood40w image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/haywood40w.jpg" /></div>
+<div class="haywood40w bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 10, near Waterville Lake on I-40<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="haywood40w bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)631-0272</div>
+<div class="haywood40w bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 28, Car/Trailer: 8, Trucks: 16</div>
+<div class="haywood40w bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1971 and was renovated in 2009.</div>
+<div class="haywood40w bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 10</mm>
+            <bound>W</bound>
+            <route>I-40</route>
+            <county>Haywood</county>
+            <georss:point>35.701089040907114 -83.04230690002443</georss:point>
+            <lat>35.701089040907114</lat>
+            <long>-83.04230690002443</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+        <item>
+            <title>Welcome Center: Haywood County I-40, Eastbound</title>
+            <description><![CDATA[<div class="haywood40e">
+<div class="haywood40e countydiv hidden">Haywood County I-40, Eastbound, Division 14</div>
+<div class="haywood40e image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/haywood40e.jpg" /></div>
+<div class="haywood40e bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Milepost 10, near Waterville Lake on I-40<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="haywood40e bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)631-0272</div>
+<div class="haywood40e bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 75, Car/Trailer: 7, Trucks: 10</div>
+<div class="haywood40e bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1971 and was renovated in 1995.</div>
+<div class="haywood40e bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 10</mm>
+            <bound>E</bound>
+            <route>I-40</route>
+            <county>Haywood</county>
+            <georss:point>35.70307548714301 -83.0401396751404</georss:point>
+            <lat>35.70307548714301</lat>
+            <long>-83.0401396751404</long>
+            <icon>../assets/travel_restarea_restarea_welcome.png</icon>
+        </item>
+
+        <item>
+            <title>Rest Area: Haywood County US 23/74 Eastbound</title>
+            <description><![CDATA[
+<div class="haywood192374">
+<div class="haywood192374 countydiv hidden">Haywood County US 19/23/74, Division 14</div>
+<div class="haywood192374 image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/haywood192374closed.jpg" /></div>
+<div class="haywood192374 bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Eastbound Lane, US Route 23/74, 1 mile East of the Blue Ridge Parkway<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="haywood192374 bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)631-0272</div>
+<div class="haywood192374 bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 18, Car/Trailer 5</div>
+<div class="haywood192374 bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1989. <strong>Closed for Renovation</strong></div>
+<div class="haywood192374 bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 23 and 74</route>
+            <county>Haywood</county>
+            <georss:point>35.445556 -83.0675</georss:point>
+            <lat>35.445556</lat>
+            <long>-83.0675</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+
+        <item>
+            <title>Rest Area: Haywood County US 23/74 Westbound</title>
+            <description><![CDATA[
+<div class="haywood192374">
+<div class="haywood192374 countydiv hidden">Haywood County US 19/23/74, Division 14</div>
+<div class="haywood192374 image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/haywood192374.jpg" /></div>
+<div class="haywood192374 bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Westbound Lane, US Route 23/74, 2 miles East of the Blue Ridge Parkway.<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="haywood192374 bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)631-0272</div>
+<div class="haywood192374 bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 40, Car/Trailer: 11</div>
+<div class="haywood192374 bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 2016.</div>
+<div class="haywood192374 bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 23 and 74</route>
+            <county>Haywood</county>
+            <georss:point>35.445556 -83.0675</georss:point>
+            <lat>35.445556</lat>
+            <long>-83.0675</long>
+            <icon>../assets/travel_restarea_restarea.png</icon>
+        </item>
+
+
+
+        <item>
+            <title>Visitor Center: Macon County US 23/441</title>
+            <description><![CDATA[<div class="macon">
+<div class="macon image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/macon.jpg" /></div>
+<div class="macon countydiv hidden">Macon County US 23/441, Division 14</div>
+<div class="macon bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>Adjacent to US Route 23/441, 3 miles north of the Georgia State Line<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="macon bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)631-0272</div>
+<div class="macon bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 67, Car/Trailer: 2, Trucks: 1</div>
+<div class="macon description topmargin bottommargin"><strong>Information:</strong> This facility was opened in June 1990 and renovated in 2015.</div>
+<div class="macon bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <route>US 23 and 441</route>
+            <county>Macon</county>
+            <georss:point>35.101389 -83.385278</georss:point>
+            <lat>35.101389</lat>
+            <long>-83.385278</long>
+            <icon>../assets/travel_restarea_restarea_visitor.png</icon>
+        </item>
+
+        <item>
+            <title>Welcome Center: Polk County I-26</title>
+            <description><![CDATA[
+<div class="polk">
+<div class="polk countydiv hidden">Polk County I-26, Division 14</div>
+<div class="polk image"><img class="box alignright" alt="Rest area photo" src="../assets/travel_restarea_centers/polk.jpg" /></div>
+<div class="polk bing-map__infobox-heading"><strong>Location: </strong></div>
+<div>At Milepost 36 South of Columbus on I-26<br /><a class="directionsLink" href="">Get Directions</a></div>
+<div class="polk bing-map__infobox-heading"><strong>Phone: </strong></div>
+<div>(828)631-0272</div>
+<div class="polk bing-map__infobox-heading"><strong>Parking Spaces: </strong></div>
+<div>Cars: 41, Car/Trailer: 5, Trucks: 7</div>
+<div class="polk bing-map__infobox-heading"><strong>Information: </strong></div>
+<div>This facility was opened in 1979 and was renovated in 2005.</div>
+<div class="polk bing-map__infobox-heading"><strong>Accommodations:</strong></div>
+<div class="bing-map__infobox-restAreaAcommodations">
+<img src="../assets/travel_restareas_icon_bathroom.gif" alt="Restrooms" />
+<img src="../assets/travel_restareas_icon_handicapped.gif" alt="Handicapped Accessible Restrooms" />
+<img src="../assets/travel_restareas_icon_familyrestroom.gif" alt="Family Restrooms" />
+<img src="../assets/travel_restareas_icon_water.gif" alt="Water Fountains" />
+<img src="../assets/travel_restareas_icon_vending.gif" alt="Vending Machines" />
+<img src="../assets/travel_restareas_icon_picnic.gif" alt="Picnic Areas" />
+<img src="../assets/travel_restareas_icon_grill.gif" alt="Grilling Areas" />
+<img src="../assets/travel_restareas_icon_recycle.gif" alt="Recycling" />
+<img src="../assets/travel_restareas_icon_trash.gif" alt="Trash bins" />
+</div>
+<div class="bing-map__infobox-restAreaAcommodations">
+</div>]]></description>
+            <pubDate/>
+            <mm>Mile 36</mm>
+            <bound>S</bound>
+            <route>I-26</route>
+            <county>Polk</county>
+            <georss:point>35.234722 -82.204167</georss:point>
+            <lat>35.234722</lat>
+            <long>-82.204167</long>
+            <icon>../assets/travel_restarea_restarea_welcome.png</icon>
+        </item>
+
+    </channel>
+</rss>

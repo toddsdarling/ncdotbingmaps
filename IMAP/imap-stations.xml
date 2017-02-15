@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:mappoint="http://virtualearth.msn.com/apis/annotate#">
+  <channel>
+    <title>NCDOT State Farm Safety Patrol In Action</title>
+    <link/>
+    <description>Incident management patrols across NC</description>
+    <mappointIntlCode/>
+    
+    <item>
+      <title>
+        IMAP Raleigh
+      </title>
+      <description></description>
+      <geo:lat>35.777714</geo:lat>
+      <geo:long>-78.651123</geo:long>
+    </item>
+    <item>
+      <title>
+        IMAP Durham
+      </title>
+      <description></description>
+      <geo:lat>35.995785</geo:lat>
+      <geo:long>-78.903809</geo:long>
+    </item>
+    <item>
+      <title>
+        IMAP Burlington
+      </title>
+      <description></description>
+      <geo:lat>36.065058</geo:lat>
+      <geo:long>-79.440594</geo:long>
+    </item>    
+    <item>
+      <title>
+        IMAP Greensboro
+      </title>
+      <description></description>
+      <geo:lat>36.04549</geo:lat>
+      <geo:long>-79.770699</geo:long>
+    </item>  
+    <item>
+      <title>
+        IMAP-Greater Charlotte Area
+      </title>
+      <description></description>
+      <geo:lat>35.410878</geo:lat>
+      <geo:long>-80.680847</geo:long>
+    </item>
+    <item>
+      <title>
+        IMAP-Greater Charlotte Area
+      </title>
+      <description></description>
+      <geo:lat>35.504003</geo:lat>
+      <geo:long>-80.867271</geo:long>
+    </item> 
+    <item>
+      <title>
+        IMAP Winston-Salem
+      </title>
+      <description></description>
+      <geo:lat>36.072135</geo:lat>
+      <geo:long>-80.325508</geo:long>
+    </item>        
+    <item>
+      <title>
+        IMAP-Foothills Area
+      </title>
+      <description></description>
+      <geo:lat>35.727562</geo:lat>
+      <geo:long>-81.552887</geo:long>
+    </item> 
+    <item>
+      <title>
+        IMAP-Asheville
+      </title>
+      <description></description>
+      <geo:lat>35.554574</geo:lat>
+      <geo:long>-82.612381</geo:long>
+    </item>
+    <item>
+      <title>
+        IMAP-Pigeon River Gorge Area
+      </title>
+      <description></description>
+      <geo:lat>35.749856</geo:lat>
+      <geo:long>-83.033295</geo:long>
+    </item>
+    <item>
+      <title>
+        IMAP-Greater Charlotte Area
+      </title>
+      <description></description>
+      <geo:lat>35.1884</geo:lat>
+      <geo:long>-80.886841</geo:long>
+    </item>
+  </channel>
+</rss>

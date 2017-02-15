@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="88px" viewBox="0 0 90 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nc12projects-pin" transform="translate(1.000000, 0.000000)">
+            <g id="Slice-1">
+                <g id="Page-1_1_">
+                    <g id="passengerAirport">
+                        <g id="Page-1">
+                            <g id="pin-shadow-01" opacity="0.24" transform="translate(8.000000, 67.000000)" fill="#000000">
+                                <path d="M51.2,1.5 C30.5,-1.11022302e-16 9,1.9 3.2,5.9 C-2.6,9.9 2.5,14 23.2,20.5 L24.5,20.6 C58.2,18 73.1,15.2 78.8,11.2 C84.5,7.3 72,3 51.2,1.5 L51.2,1.5 Z" id="Shape"></path>
+                            </g>
+                            <g id="pin" fill="#3F7D97">
+                                <path d="M33,0 C15,0 0.3,14.4 0.3,32.5 C0.3,50.4 8.9,64 32.5,87 L33.6,87 C57.2,64 65.8,50.5 65.8,32.5 C65.8,14.4 51,0 33,0 L33,0 Z" id="Shape_1_"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <path d="M55,42.9 L41.9,18.4 C41.5,17.3 39.9,16.4 38.8,16.4 L25.2,16.4 C24.1,16.4 22.6,17.3 22.1,18.4 L9,42.9 C8.3,44 9,44.9 10.1,44.9 L54,44.9 C55,44.9 55.7,44 55,42.9 Z M34.2,42.7 L29.8,42.7 L29.8,34 L34.2,34 L34.2,42.7 Z M34.2,31.8 L29.8,31.8 L29.8,25.2 L34.2,25.2 L34.2,31.8 Z M34.2,23 L29.8,23 L29.8,18.6 L34.2,18.6 L34.2,23 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

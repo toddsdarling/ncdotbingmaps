@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title></title>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <link rel="stylesheet" href="../style.css">
+        <script type="text/javascript" src="../handlebars-v4.0.5.js"></script>
+        <script data-require="jquery" data-semver="3.0.0" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.js"></script>
+        <script type="text/javascript" src="https://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&s=1"></script>
+
+        <script type="text/javascript" src="../../jquery.NCDOT.BingMap.js"></script>
+   </head>
+   <body>
+          <div id="NC12Map">
+
+          </div>
+
+          <script type="text/javascript">
+
+          $(document).ready(function() {
+
+            var scriptTag = document.createElement('script');
+            scriptTag.async = false;
+            scriptTag.src = 'http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&onscriptload=getMap';
+            scriptTag.type = 'text/javascript';
+
+            document.getElementsByTagName('body')[0].appendChild(scriptTag);            
+            //set up 
+
+          });          
+
+          function getMap() {
+
+              //init the bing map with map options
+              $('#NC12Map').NCDOTBingMap({
+                mapCenterLat:35.44654711408664,
+                mapCenterLong: -75.79854052600098,
+                zoom:9,
+                showMapTypeSelector:false
+              });
+             
+              /* since the pin data could come from a variety of sources, the call to get the pins
+              stays in the HTML, not in the jQuery plugin */
+              
+              //make the call to load the map pin data
+              $.ajax({
+                type: 'GET',
+                url: 'nc12projects.xml',
+                data: {},
+                contentType: "application/xml; charset=utf-8",
+                dataType: "xml",
+                success: setNC12Pins
+              });
+
+          }
+
+
+            function setNC12Pins(response) {
+              //grab the array of pins
+              var xmlBody = $.parseXML(response.childNodes[0].outerHTML);
+              var pinArrayFromXML = $(xmlBody).find('item');
+              var pinArray = [];
+
+              //loop through the pins
+              for (var i = 0 ; i < pinArrayFromXML.length; i++) {
+
+                  var parsedItem = {};
+
+                  var itemChildren = pinArrayFromXML[i].childNodes;
+
+                  itemChildren.forEach(function(value, key) {
+
+                    if (value.nodeName === 'title') {
+                      parsedItem.title = value.innerHTML.replace('&amp;', '&');
+                    }
+
+                    if (value.nodeName === 'description') {
+
+                      var desc = value.innerHTML.replace('<![CDATA[', '').replace(']]>', '').replace(/^"(.*)"$/, '$1');
+                      parsedItem.description = desc;
+                    }
+
+                    if (value.nodeName === 'georss:point') {
+                      var stringArray = value.innerHTML.split(' ');
+                      parsedItem.coordinates = {lat: stringArray[0], long:stringArray[1]};
+                    }
+                  });               
+
+                  parsedItem.iconPath = '../assets/nc12projects-pin.svg';
+                  parsedItem.pinWidth = 45;
+                  parsedItem.pinHeight = 45;
+
+                  pinArray.push(parsedItem);
+
+              }
+
+              $('#NC12Map').data('NCDOTBingMap').setPins(pinArray);
+
+              //load the directions module to highlight sections of route 12 on the map
+              Microsoft.Maps.loadModule('Microsoft.Maps.Directions', { callback: directionsModuleLoaded });              
+
+            }
+
+
+            function directionsModuleLoaded()
+            {
+
+              var routeRequestOptions = {routeDraggable:false};
+              var routeRenderOptions = {waypointPushpinOptions: {visible:false}, autoUpdateMapView: false};
+
+
+              // Initialize drawing the Buxton route
+              buxtonRouteLine = new Microsoft.Maps.Directions.DirectionsManager($('#NC12Map').data('NCDOTBingMap').map);
+              buxtonRouteLine.setRequestOptions(routeRequestOptions);
+              buxtonRouteLine.setRenderOptions(routeRenderOptions);
+
+              // Create start and end waypoints 
+              var startWaypoint = new Microsoft.Maps.Directions.Waypoint({ location: new Microsoft.Maps.Location(35.331477, -75.507531)}); 
+              var endWaypoint = new Microsoft.Maps.Directions.Waypoint({ location : new Microsoft.Maps.Location(35.260163,-75.585508)}); 
+
+              buxtonRouteLine.addWaypoint(startWaypoint);
+              buxtonRouteLine.addWaypoint(endWaypoint);
+
+              // Specify a handler for when an error and success occurs
+              Microsoft.Maps.Events.addHandler(buxtonRouteLine, 'directionsError', displayError);
+
+              // Calculate directions, which displays a route on the map
+              buxtonRouteLine.calculateDirections();
+
+              // Draw the Hatteras village route
+              hatterasRouteLine = new Microsoft.Maps.Directions.DirectionsManager($('#NC12Map').data('NCDOTBingMap').map);
+              hatterasRouteLine.setRequestOptions(routeRequestOptions);
+              hatterasRouteLine.setRenderOptions(routeRenderOptions);
+
+              // Create start and end waypoints 
+              var startWaypoint = new Microsoft.Maps.Directions.Waypoint({ location: new Microsoft.Maps.Location(35.228093, -75.635161)}); 
+              var endWaypoint = new Microsoft.Maps.Directions.Waypoint({ location : new Microsoft.Maps.Location(35.215656,-75.67548)}); 
+
+              hatterasRouteLine.addWaypoint(startWaypoint);
+              hatterasRouteLine.addWaypoint(endWaypoint);
+
+              // Specify a handler for when an error and success occurs
+              Microsoft.Maps.Events.addHandler(hatterasRouteLine, 'directionsError', displayError);
+
+              // Calculate directions, which displays a route on the map
+              hatterasRouteLine.calculateDirections();   
+
+              // Draw the Hatteras village route
+              ocracokeIslandRouteLine = new Microsoft.Maps.Directions.DirectionsManager($('#NC12Map').data('NCDOTBingMap').map);
+              ocracokeIslandRouteLine.setRequestOptions(routeRequestOptions);
+              ocracokeIslandRouteLine.setRenderOptions(routeRenderOptions);
+
+              // Create start and end waypoints 
+              var startWaypoint = new Microsoft.Maps.Directions.Waypoint({ location: new Microsoft.Maps.Location(35.188891,-75.779743)}); 
+              var endWaypoint = new Microsoft.Maps.Directions.Waypoint({ location : new Microsoft.Maps.Location(35.148968,-75.868363)}); 
+
+              ocracokeIslandRouteLine.addWaypoint(startWaypoint);
+              ocracokeIslandRouteLine.addWaypoint(endWaypoint);
+
+              // Specify a handler for when an error and success occurs
+              Microsoft.Maps.Events.addHandler(ocracokeIslandRouteLine, 'directionsError', displayError);
+
+              // Calculate directions, which displays a route on the map
+              ocracokeIslandRouteLine.calculateDirections();              
+
+
+
+
+
+            }
+
+          </script>
+
+   </body>
+</html>

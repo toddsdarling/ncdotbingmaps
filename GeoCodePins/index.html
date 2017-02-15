@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title></title>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <link rel="stylesheet" href="../style.css">
+        <script type="text/javascript" src="../handlebars-v4.0.5.js"></script>
+        <script data-require="jquery" data-semver="3.0.0" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.js"></script>
+        <script type="text/javascript" src="https://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&s=1"></script>
+
+        <script type="text/javascript" src="../jquery.NCDOT.BingMap.js"></script>
+
+   </head>
+   <body">
+          <div id="geoCodePinMap">
+
+          </div>
+
+          <script type="text/javascript">
+
+          $(document).ready(function() {
+            //set up 
+
+            //init the bing map with map options
+            $('#geoCodePinMap').NCDOTBingMap({
+              enablePinZoom:false,
+              mapCenterAddress: '40 Collier Ave, Asheville, NC 28801',
+              zoom:7,
+              showMapTypeSelector:false
+            });
+           
+            
+            /* pass a string as the coordinates prop if you need to geocode an address 
+            to set a pin */
+            var pinArray = [{
+              coordinates: {
+                lat:35.7767717 ,
+                long:-78.6416579 
+              }
+            }];
+
+            $('#geoCodePinMap').data('NCDOTBingMap').setPins(pinArray);
+
+
+          });
+
+
+          </script>
+
+   </body>
+</html>

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title></title>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <link rel="stylesheet" href="../style.css">
+        <script type="text/javascript" src="../handlebars-v4.0.5.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+        <script type="text/javascript" src="https://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&s=1"></script>
+
+        <script type="text/javascript" src="../jquery.NCDOT.BingMap.js"></script>
+   </head>
+   <body">
+
+
+          <div id="scenicMap">
+
+          </div>
+
+          <script type="text/javascript">
+
+          $(document).ready(function() {
+
+            var scriptTag = document.createElement('script');
+            scriptTag.async = false;
+            scriptTag.src = 'http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&onscriptload=getMap';
+            scriptTag.type = 'text/javascript';
+
+            document.getElementsByTagName('body')[0].appendChild(scriptTag);            
+            //set up 
+
+          });          
+
+          function getMap() {
+
+              //init the bing map with map options
+              $('#scenicMap').NCDOTBingMap({
+                showMapTypeSelector:false
+              });
+             
+              /* since the pin data could come from a variety of sources, the call to get the pins
+              stays in the HTML, not in the jQuery plugin */
+              
+              //make the call to load the map pin data
+              $.ajax({
+                type: 'GET',
+                url: 'travel_ScenicByways_coastal.xml',
+                data: {},
+                contentType: "application/xml; charset=utf-8",
+                dataType: "xml",
+                success: setScenicPins
+              });
+
+              $.ajax({
+                type: 'GET',
+                url: 'travel_ScenicByways_mountain.xml',
+                data: {},
+                contentType: "application/xml; charset=utf-8",
+                dataType: "xml",
+                success: setScenicPins
+              });
+
+              $.ajax({
+                type: 'GET',
+                url: 'travel_ScenicByways_piedmont.xml',
+                data: {},
+                contentType: "application/xml; charset=utf-8",
+                dataType: "xml",
+                success: setScenicPins
+              });   
+
+            }                     
+
+
+            function setScenicPins(response) {
+              //grab the array of pins
+              var xmlBody = $.parseXML(response.childNodes[0].outerHTML);
+              var pinArrayFromXML = $(xmlBody).find('item');
+              var pinArray = [];
+
+              //loop through the pins
+              for (var i = 0 ; i < pinArrayFromXML.length; i++) {
+
+                  var parsedItem = {};
+
+                  var itemChildren = pinArrayFromXML[i].childNodes;
+
+                  var hasTitle = false;
+                  var hasOwnPoint = false;
+
+                  itemChildren.forEach(function(value, key) {
+
+                    if (value.nodeName === 'title') {
+                      parsedItem.title = value.innerHTML;
+                      hasTitle = true;
+                    }
+
+                    if (value.nodeName === 'description') {
+
+                      var desc = value.innerHTML.replace('<![CDATA[', '').replace(']]>', '').replace(/^"(.*)"$/, '$1');
+                      parsedItem.description = desc;
+                    }
+
+                    if (value.nodeName === 'georss:point') {
+                      var stringArray = value.innerHTML.split(' ');
+                      parsedItem.coordinates = {lat: stringArray[0], long:stringArray[1]};
+                      hasOwnPoint = true;
+                    }
+
+                    //parse out coordinates for drawing the scenic byway route
+                    if (value.nodeName === 'georss:line') {
+                      var coordinatesArray = value.innerHTML.split(' ');
+                      var coordinateCount = coordinatesArray.length;
+                      lineLocationArray = [];
+
+                      for (var j=0; j < coordinateCount/2; j++) {
+                        lineLocationArray.push(new Microsoft.Maps.Location(coordinatesArray.shift(), coordinatesArray.shift()));
+                      }
+                      
+                      drawLine(lineLocationArray);
+
+                    }                    
+
+                  });
+
+                    if (!hasOwnPoint && hasTitle) {
+                      var middleCoordinates = lineLocationArray[Math.floor(lineLocationArray.length/2)];
+                      parsedItem.coordinates = {lat: middleCoordinates.latitude.toString(), long: middleCoordinates.longitude.toString()};                        
+                    }
+
+                    if (parsedItem.coordinates) {
+                      //set the custon icon path
+                      parsedItem.iconPath = '../assets/scenic-pin.svg';
+                      pinArray.push(parsedItem);  
+                    }
+                    
+
+                  
+
+              }
+
+              function drawLine(coordinateArray) {
+
+                // Create a polyline
+                var line = new Microsoft.Maps.Polyline(coordinateArray, {
+                  strokeColor: new Microsoft.Maps.Color(255,88,128,35)
+                });
+
+                Microsoft.Maps.Events.addHandler(line, 'click', function() {
+                  console.log('line clicked');
+                });
+
+                // Add the polyline to the map
+                $('#scenicMap').data('NCDOTBingMap').map.entities.push(line);
+
+
+
+
+
+
+              }
+
+              $('#scenicMap').data('NCDOTBingMap').setPins(pinArray);              
+              
+
+            }
+
+          </script>
+
+   </body>
+</html>

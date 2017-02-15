@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:mappoint="http://virtualearth.msn.com/apis/annotate#">
+  <channel>
+    <title>NC Airport Locations</title>
+    <link/>
+    <description>NC Airport Locations</description>
+    <mappointIntlCode/>
+    
+    <item>
+      <title>
+        Albert J. Ellis Airport (OAJ)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideOAJ.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>264 Albert Ellis Airport Rd <br/> Richlands, NC 28574-5102</li>
+              <li>(910) 324-1100</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.co.onslow.nc.us/airport">Website</a>
+              </li>
+
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>34.8291644</geo:lat>
+      <geo:long>-77.6121378</geo:long>      
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane_passenger.gif</icon>
+      
+
+    </item>
+    <item>
+      <title>
+        Western Carolina Regional  Airport (RHP)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideRHP.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+
+          <div>
+            <ul>
+              <li>5840 Airport Rd <br/> Andrews, NC 28901-9102</li>
+              <li>(828) 321-5114</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.smokymountainaero.com">Website</a>
+
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>     
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+
+    </item>
+    <item>
+      <title>
+        Anson County Airport (AFP)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideAFP.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+
+          <div>
+            <ul>
+              <li>3154 Airport Rd <br/> Wadesboro, NC 28170-5271</li>
+              <li>(704) 694-2516</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.co.anson.nc.us/content/index.php?airport">Website</a>
+
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>      
+      <geo:address>3154 Airport Rd Wadesboro, NC 28170-5271</geo:address>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+
+    </item>
+    <item>
+      <title>
+        Ashe County Airport (GEV)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideGEV.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+
+          <div>
+            <ul>
+              <li>639 Airport Rd <br/> Jefferson, NC 28640-9783</li>
+              <li>(336) 982-5144</li>
+            </ul>
+          </div>
+
+        </div>
+      ]]></description>
+      <geo:address>3639 Airport Rd Jefferson, NC 28640-9783</geo:address>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+
+      <title>
+        Asheboro Regional Airport (HBI)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideHBI.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+
+              <li>2222 Pilots View Rd <br/> Asheboro, NC 27205-9523</li>
+              <li>(336) 625-6120</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>35.6545278</geo:lat>
+      <geo:long>-79.8947389</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Asheville Regional Airport (AVL)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideAVL.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>708 Airport Rd # 1 <br/> Fletcher, NC 28732-5618</li>
+
+              <li>(828) 684-2226</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.flyavl.com">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>35.4361944</geo:lat>
+      <geo:long>-82.5418056</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane_passenger.gif</icon>
+    </item>
+    <item>
+      <title>
+        Avery County Morrison Field Airport (7A8)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuide7A8.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>400 Brushy Creek Rd <br/> 360 Shelter Rock Circle Spruce Pine, Nc 28777</li>
+
+              <li>(919) 840-0171</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.9445703</geo:lat>
+      <geo:long>-81.9956694</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Billy Mitchell Airport (HSE)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideHSE.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>53252 Billy Mitchell Rd <br/> Frisco, NC 27936</li>
+              <li>(252) 995-3646</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.billymitchellairport.com/">Website</a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.2327875</geo:lat>
+      <geo:long>-75.6177950</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Burlington Alamance Regional Airport (BUY)
+      </title>
+
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideBUY.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>3441 N Aviation Dr <br/> Burlington, NC 27215-5489</li>
+
+              <li>(336) 227-0771</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.0485433</geo:lat>
+      <geo:long>-79.4748892</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Cape Fear Regional Jetport/Howie Franklin Field (SUT)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideSUT.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>4019 Long Beach Rd SE <br/> Southport, NC 28461-8654</li>
+              <li>(910) 457-6483</li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>33.9292569</geo:lat>
+      <geo:long>-78.0749917</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Charlotte-Douglas International Airport (CLT)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideCLT.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>5501 Josh Birmingham Pkwy <br/> Charlotte, NC 28208</li>
+              <li>(704) 359-4910</li>
+              <li>
+
+                <a style="text-decoration:underline;" target="_blank" href="http://www.charmeck.org/Departments/Airport/Home.htm">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.2140000</geo:lat>
+      <geo:long>-80.9431389</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane_passenger.gif</icon>
+    </item>
+        <item>
+      <title>
+        Clinton-Sampson County Airport (CTZ)
+      </title>
+
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideCTZ.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>89 Sampson Airport Rd <br/> Clinton, NC 28328</li>
+
+              <li>(910) 592-3295</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>34.9749389</geo:lat>
+      <geo:long>-78.3656292</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Columbus County Municipal Airport (CPC)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideCPC.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>467 Airport Rd <br/> Whiteville, NC 28472-8547</li>
+              <li>(910)642-6187</li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>34.2728728</geo:lat>
+      <geo:long>-78.7149928</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Concord Regional Airport (JQF)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideJQF.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>9000 Aviation Blvd <br/> Concord, NC 28027-7103</li>
+              <li>(704) 793-9000</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.ci.concord.nc.us/Departments/Airport/tabid/89/Default.aspx">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>35.3877750</geo:lat>
+      <geo:long>-80.7091361</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane_passenger.gif</icon>
+    </item>
+    <item>
+      <title>
+        Coastal Carolina Regional Airport (EWN)
+      </title>
+
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideEWN.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>200 Terminal Dr <br/> New Bern, NC 28562-6455</li>
+
+              <li>(252) 638-8591</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.0729722</geo:lat>
+      <geo:long>-77.0429444</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane_passenger.gif</icon>
+    </item>
+    <item>
+      <title>
+        Currituck County Airport (ONX)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideONX.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>Currituck, NC 27929</li>
+              <li>(252) 232-2242 </li>
+            </ul>
+          </div>
+
+        </div>
+      ]]></description>
+      <geo:lat>36.3989292</geo:lat>
+      <geo:long>-76.0163014</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+
+      <title>
+        Curtis L. Brown Field Airport (EYF)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideEYF.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+
+              <li>466 Airport Rd <br/> Elizabethtown, NC 28337-5108</li>
+              <li>(910) 862-4522</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>34.6018042</geo:lat>
+      <geo:long>-78.5792708</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Dare County Regional Airport (MQI)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideMQI.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>410 Airport Rd <br/> Manteo, NC 27954-9110</li>
+
+              <li>(252) 475-5575</li>
+              
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>35.9189889</geo:lat>
+      <geo:long>-75.6955389</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Davidson County Airport (EXX)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideEXX.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>1673 Aviation Way <br/> Lexington, NC</li>
+
+              <li>(336) 956-7774 </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.7811403</geo:lat>
+      <geo:long>-80.3037819</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Duplin County Airport (DPL)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideDPL.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>260 Airport Rd <br/> Kenansville, NC 28349-8951</li>
+              <li>(910) 296-2188</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.duplincounty.org/airindex.htm">Website</a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.0000644</geo:lat>
+      <geo:long>-77.9816950</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Elizabeth City CGAS/Regional Airport (ECG)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideECG.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>1028 Consolidated Rd <br/> Elizabeth City, NC 27909-7835</li>
+              <li>(252) 335-5634</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.ecgairport.com">Website</a>
+              </li>
+
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.2605806</geo:lat>
+      <geo:long>-76.1745722</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+
+    </item>
+    <item>
+      <title>
+        Elkin Municipal Airport (ZEF)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideZEF.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+
+          <div>
+            <ul>
+              <li>1598 Cc Camp Rd <br/> Elkin, NC 28621-8366</li>
+              <li>(336) 366-3433</li>
+            </ul>
+          </div>
+
+        </div>
+      ]]></description>
+      <geo:lat>36.2800236</geo:lat>
+      <geo:long>-80.7860686</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+
+      <title>
+        Fayetteville Regional Airport (FAY)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideFAY.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+
+              <li>400 Airport Rd <br/> Fayetteville, NC 28306-9204</li>
+              <li>(910) 433-1160</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.flyfay.com">Website</a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>34.9912161</geo:lat>
+      <geo:long>-78.8802717</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane_passenger.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        First Flight Airport (FFA)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideFFA.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>5508 Townsend Warbler CT <br/> Wake Forest, NC 27587-4804</li>
+              <li>(919) 554-3765</li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>36.0182228</geo:lat>
+      <geo:long>-75.6712869</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Triangle North Executive Airport (LHZ)
+      </title>
+
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideLHZ.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>440 Airport Dr. <br/> Louisburg, NC 27549</li>
+              <li>(919) 496-1234</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.flytrianglenorth.com/">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.0233453</geo:lat>
+      <geo:long>-78.3302714</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Gastonia Municipal Airport (AKH)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideAKH.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>1126 Gaston Day School Rd <br/> Gastonia, NC 28056-7503</li>
+              <li>(704) 864-4363</li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.2026389</geo:lat>
+      <geo:long>-81.1498889</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Goldsboro-Wayne Municipal Airport (GWW)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideGWW.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>240 Aviation Rd NE <br/> Pikeville, NC 27863</li>
+              <li>(919) 734-7630</li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>35.4605544</geo:lat>
+      <geo:long>-77.9649331</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Halifax-Northampton Regional Airport (IXA)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideIXA.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>700 Gregory Farm Road <br/> Halifax, NC 27839</li>
+
+              <li>(252) 583-3492</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.338611</geo:lat>
+      <geo:long>-77.636389</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Harnett Regional Jetport (HRJ)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideHRJ.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>615 Airport Rd <br/> Erwin, NC 28339</li>
+              <li>(910) 814-2740</li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.3802778</geo:lat>
+      <geo:long>-78.7322222</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Henderson Field Airport (ACZ)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideACZ.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+            	<li>250 Henderson Field Rd. <br />Wallace, NC 28466</li>
+              <li>(910) 285-6642 </li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.townofwallacemain.com/airportmain.html">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>34.7178903</geo:lat>
+
+      <geo:long>-78.0036244</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Oxford Henderson Airport (HNZ)
+      </title>
+      <description><![CDATA[
+        <div>
+
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideHNZ.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>6514 Airport Rd <br/> Oxford, NC 27565</li>
+              <li>(919) 693-5769 </li>
+
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.3615611</geo:lat>
+      <geo:long>-78.5291664</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+
+    </item>
+    <item>
+      <title>
+        Hickory Regional Airport (HKY)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideHKY.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+
+          <div>
+            <ul>
+              <li>3101 9th Avenue Dr NW <br/> Hickory, NC 28601-8646</li>
+              <li>(828) 323-7408</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.hickorygov.com/department/?fDD=21-0">Website</a>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+      ]]></description>
+      <geo:lat>35.7411464</geo:lat>
+      <geo:long>-81.3895489</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+
+      <title>
+        Horace Williams Airport (IGX)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideIGX.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+
+              <li>Estes Dr Ext <br/> Chapel Hill, NC 27599-0001</li>
+              <li>(919) 962-0221</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>35.9350000</geo:lat>
+      <geo:long>-79.0659083</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Hyde County Airport (7W6)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuide7W6.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>Engelhard, NC</li>
+              
+
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.5623925</geo:lat>
+      <geo:long>-75.9551842</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+
+    </item>
+    <item>
+      <title>
+        Jackson County Airport (24A)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuide24A.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+
+          <div>
+            <ul>
+              <li>626 Airport Rd <br/> Sylva, NC 28779-5629</li>
+              <li>(828) 400-9660</li>
+            </ul>
+          </div>
+
+        </div>
+      ]]></description>
+      <geo:lat>35.3174336</geo:lat>
+      <geo:long>-83.2099164</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+
+      <title>
+        Johnston County Airport (JNX)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideJNX.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+
+              <li>3149 Swift Creek Rd # A <br/> Smithfield, NC 27577-6900</li>
+              <li>(919) 934-0992</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>35.5409414</geo:lat>
+      <geo:long>-78.3903294</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Kinston Regional Jetport (ISO)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideISO.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>2780 Jetport Rd # A <br/> Kinston, NC 28504-7346</li>
+
+              <li>(252) 522-2922</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.jetkinston.com">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>35.3314444</geo:lat>
+      <geo:long>-77.6088333</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Laurinburg/Maxton Airport (MEB)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideMEB.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>16701 Airport Rd <br/> Maxton, NC 28364-6825</li>
+
+              <li>(910) 844-5081</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.lmairport.com/">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>34.7919392</geo:lat>
+      <geo:long>-79.3658478</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Lincolnton-Lincoln County Regional Airport (IPJ)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideIPJ.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>716 Airport Rd <br/> Iron Station, NC 28080-8707</li>
+
+              <li>(704) 735-0602</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.lincolncountyairport.com/">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>35.4833278</geo:lat>
+      <geo:long>-81.1612583</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Lumberton Municipal Airport (LBT)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideLBT.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>163 Airport Blvd <br/> Lumberton, NC 28358</li>
+
+              <li>(910) 739-6480</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.lumbertonmunicipalairport.com/">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>34.6099167</geo:lat>
+      <geo:long>-79.0594444</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Macon County Airport (1A5)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuide1A5.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>1241 Airport Rd <br/> Franklin NC 28734</li>
+              <li>(828) 524-5529</li>
+              <li>
+
+                <a style="text-decoration:underline;" target="_blank" href="http://www.franklin-chamber.com/airport">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.2225950</geo:lat>
+      <geo:long>-83.4190439</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Martin County Airport (MCZ)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideMCZ.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>2137 Airport Rd <br/> Williamston, NC 27892-9658</li>
+              <li>(252) 792-1971</li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.8621931</geo:lat>
+      <geo:long>-77.1782028</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Michael J. Smith Field (MRH)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideMRH.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>180 Airport Rd <br/> Beaufort, NC 28516-9751</li>
+              <li>(252) 728-1928</li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>34.7335503</geo:lat>
+      <geo:long>-76.6605961</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Charlotte-Monroe Executive Airport (EQY)
+      </title>
+
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideEQY.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>300 W Crowell St <br/> Monroe, NC 28112-4648</li>
+
+              <li>(704) 226-2300</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.monroenc.org/airport/airport_home.php">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>35.0188444</geo:lat>
+      <geo:long>-80.6202344</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Montgomery County Airport (43A)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuide43A.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>262 Airport Rd <br/> Star, NC 27356</li>
+
+              <li>(910) 428-9882</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.388302</geo:lat>
+      <geo:long>-79.78772</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Moore County Airport (SOP)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideSOP.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>7865 Hwy 22 <br/> Carthage, NC 28327</li>
+              <li>(910) 692-3212</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.moorecountyairport.com/">Website</a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.2373528</geo:lat>
+      <geo:long>-79.3911694</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Foothills Regional Airport (MRN)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideMRN.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>3566 Morganton Lenoir Arpt Ave <br/> Morganton, NC 28655</li>
+              <li>(828) 757-0099</li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>35.820227</geo:lat>
+      <geo:long>-81.615366</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Mount Airy/Surry County Airport (MWK)
+      </title>
+
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideMWK.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>146 Howard Woltz Jr Way <br/> Mount Airy, NC 27030</li>
+
+              <li>(336) 789-5153</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.4597333</geo:lat>
+      <geo:long>-80.5529583</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Mount Olive Municipal Airport (W40)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideW40.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>227 Mount Olive Airport Rd <br/> Mount Olive, NC 28365-8279</li>
+              <li>(919) 635-1471</li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.2225083</geo:lat>
+      <geo:long>-78.0375278</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Northeastern Regional Airport (EDE)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideEDE.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>Base Rd <br/> Edenton, NC 27932</li>
+              <li>(252) 482-4664</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.edentonairport.com/">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>36.0277345</geo:lat>
+      <geo:long>-76.5670922</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Odell Williamson Municipal Airport (60J)
+      </title>
+
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuide60J.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>3 W Third St <br/> Ocean Isle Beach, NC 28469</li>
+
+              <li>(910) 579-2166</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>33.9085056</geo:lat>
+      <geo:long>-78.4366722</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Ocracoke Island Airport (W95)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideW95.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>Highway 12 <br/> Ocracoke, NC 27960 </li>
+              <li>(252) 928-9901</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.ocracokeairport.com/">Website</a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.1011631</geo:lat>
+      <geo:long>-75.9659647</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Person County Airport (TDF)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideTDF.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>ROXBORO, NC</li>
+              <li>(336) 364-1111 </li>
+              
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.2848917</geo:lat>
+      <geo:long>-78.9842278</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Piedmont Triad International Airport (GSO)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideGSO.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>Piedmont Triad Inter <br/> Greensboro, NC 27401</li>
+              <li>(336) 668-0411</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.flyfrompti.com">Website</a>
+              </li>
+
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.0977500</geo:lat>
+      <geo:long>-79.9373056</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane_passenger.gif</icon>
+
+    </item>
+
+    <!-- not on map, privately owned -->
+    <!--item>
+      <title>
+        Pink Hill Airport (4W9)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/PinkHillAirport4W9.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+
+          <div>
+            <ul>
+              <li>Pink Hill, NC</li>
+              
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>35.0507192</geo:lat>
+      <geo:long>-77.7360869</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item-->
+    
+    <item>
+      <title>
+        Pitt Greenville Airport (PGV)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuidePGV.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>400 Airport Rd <br/> Greenville, NC 27834-1401</li>
+
+              <li>(252) 758-4707</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.6352389</geo:lat>
+      <geo:long>-77.3853194</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane_passenger.gif</icon>
+    </item>
+    <item>
+      <title>
+        Plymouth Municipal Airport (PMZ)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuidePMZ.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>1069 Plymouth Airport Rd <br/> Plymouth, NC 27962-9357</li>
+              <li>(252) 793-9801</li>
+              
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.8084394</geo:lat>
+      <geo:long>-76.7592769</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Raleigh-Durham International Airport (RDU)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideRDU.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>2400 W Terminal Blvd <br/> Morrisville, NC 27560-9217</li>
+              <li>(919) 840-2123</li>
+              <li>
+
+                <a style="text-decoration:underline;" target="_blank" href="http://www.rdu.com">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.8776389</geo:lat>
+      <geo:long>-78.7874722</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane_passenger.gif</icon>
+    </item>
+    <item>
+      <title>
+        Rockingham County/Shiloh Airport (SIF)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideSIF.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>2691 Settle Bridge Rd <br/> Stoneville, NC 27048-8547</li>
+              <li>(336) 573-3115</li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.4372222</geo:lat>
+      <geo:long>-79.8510111</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Richmond County Airport (RCZ)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideRCZ.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>505 Rockingham Rd <br/> Rockingham, NC 28379-3615</li>
+              <li>(910) 895-9057</li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>34.8913272</geo:lat>
+      <geo:long>-79.7595872</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Rocky Mount-Wilson Regional Airport (RWI)
+      </title>
+
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideRWI.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>7265 Air Terminal Dr <br/> Elm City, NC 27822-9477</li>
+
+              <li>(252) 446-7057</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.8562528</geo:lat>
+      <geo:long>-77.8919333</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Rowan County Airport (RUQ)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideRUQ.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>3670 Airport Loop <br/> Salisbury, NC 28147-8921</li>
+              <li>(704) 636-9032</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.co.rowan.nc.us/GOVERNMENT/Departments/AirportRUQ/tabid/127/Default.aspx">Website</a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.6458861</geo:lat>
+      <geo:long>-80.5202944</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Rutherford County-Marchman Field Airport (FQD)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideFQD.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>622 Airport Rd # 102 <br/> Rutherfordton, NC 28139-8251</li>
+              <li>(828) 287-0800</li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>35.4282222</geo:lat>
+      <geo:long>-81.9350778</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    
+
+    <item>
+      <title>
+        Raleigh Executive at Sanford-Lee County (TTA)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideTTA.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>701 Rod Sullivan Rd <br/> Sanford, NC 27330-9283</li>
+              <li>(919) 776-2939</li>
+              <li>
+
+                <a style="text-decoration:underline;" target="_blank" href="http://www.sanford-leecoairport.com">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.5837394</geo:lat>
+      <geo:long>-79.1007656</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Shelby-Cleveland County Regional Airport (EHO)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideEHO.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>830 College Ave <br/> Shelby, NC 28152-9508</li>
+              <li>(704) 484-6829</li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.2555556</geo:lat>
+      <geo:long>-81.6009972</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Siler City Municipal Airport (5W8)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuide5W8.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>1595 Airport Rd <br/> Siler City, NC 27344-7920</li>
+              <li>(919) 742-3847</li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>35.7043056</geo:lat>
+      <geo:long>-79.5041889</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Smith Reynolds Airport (INT)
+      </title>
+
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideINT.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>3010 Aviation Dr <br/> Winston Salem, NC 27105-4561</li>
+
+              <li>(336) 744-1361</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.smithreynolds.org/">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.1337222</geo:lat>
+      <geo:long>-80.2220000</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Stanly County Airport (VUJ)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideVUJ.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>40659 Airport Rd <br/> Albemarle, NC 28001</li>
+              <li>(704) 982-9013</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.stanlycountyairport.com/">Website</a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.4166947</geo:lat>
+      <geo:long>-80.1507956</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Statesville Regional Airport (SVH)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideSVH.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>238 Airport Rd <br/> Statesville, NC 28677</li>
+              <li>(704) 873-1111</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.greaterstatesville.org/community/regional-airport.cfm">Website</a>
+              </li>
+
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.7652778</geo:lat>
+      <geo:long>-80.9538889</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+
+    </item>
+    <item>
+      <title>
+        Tarboro-Edgecombe County Airport (ETC)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideETC.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+
+          <div>
+            <ul>
+              <li>Tarboro, NC</li>
+              
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>35.9371008</geo:lat>
+      <geo:long>-77.5466383</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Tri-County Airport (ASJ)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideASJ.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>140 Tri County Airport Rd <br/> Aulander, NC 27805-9342</li>
+
+              <li>(252) 345-9962</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>36.2975258</geo:lat>
+      <geo:long>-77.1708556</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Warren Field (OCW)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideOCW.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>200 Airport Rd. <br/> Washington, NC 27889</li>
+              <!--li>313 Clinton St <br/> Newton Grove, NC 28366-7701</li-->
+              <!--li>(910) 594-0535</li-->
+              <li>(252) 946-3900</li>
+            </ul>
+
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.5704667</geo:lat>
+      <geo:long>-77.0498139</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <item>
+      <title>
+        Wilkes County Airport (UKF)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideUKF.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+
+            <ul>
+              <li>640 Wood Wallace Dr <br/> North Wilkesboro, NC 28659-9365</li>
+              <li>(336) 696-2000</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.wilkescounty.net/airport_information.php?nid=2">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>36.2228417</geo:lat>
+      <geo:long>-81.0983389</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+    <item>
+      <title>
+        Wilmington International Airports (ILM)
+      </title>
+
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideILM.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>1740 Airport Blvd <br/> Wilmington, NC 28405</li>
+
+              <li>(910) 341-4125</li>
+              <li>
+                <a style="text-decoration:underline;" target="_blank" href="http://www.flyilm.com">Website</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+
+      <geo:lat>34.2706667</geo:lat>
+      <geo:long>-77.9025000</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane_passenger.gif</icon>
+    </item>
+    <item>
+      <title>
+        Wilson Industrial Air Center (W03)
+      </title>
+      <description><![CDATA[
+
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/AirportGuideW03.pdf">Airport Details</a>
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>4545 Airport Dr NW <br/> Wilson, NC 27896</li>
+
+              <li>(252) 291-8810</li>
+            </ul>
+          </div>
+        </div>
+      ]]></description>
+      <geo:lat>35.7704069</geo:lat>
+      <geo:long>-77.9697914</geo:long>
+
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item>
+
+    <!-- not on map, privately owned -->
+    <!--item>
+      <title>
+        Wilson's Airport (E40)
+      </title>
+      <description><![CDATA[
+        <div>
+          <a class="pdf" target="_blank" href="/aviation/download/ncairports/WilsonsAirportE40.pdf">Airport Details</a>
+
+          <span class="bing-map__infobox-heading">Address:</span>
+          <div>
+            <ul>
+              <li>Hickory, NC</li>
+              
+            </ul>
+          </div>
+        </div>
+
+      ]]></description>
+      <geo:lat>35.6520767</geo:lat>
+      <geo:long>-81.3578639</geo:long>
+      <icon>/_graphics/site_graphics/transit_aviation_mapicon_airplane.gif</icon>
+    </item-->
+  </channel>
+</rss>
